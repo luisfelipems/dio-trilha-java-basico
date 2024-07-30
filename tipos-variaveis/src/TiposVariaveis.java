@@ -21,5 +21,11 @@ public class TiposVariaveis {
         
         double salario = 2500.33;
         // Números após o ponto são considerados como virgula.
+
+        final double VALOR_DE_PI = 3.1415;
+        // O final não me permite alterar o valor da constante VALOR_DE_PI. 
+        // Por ser constante, a declaração dela precisa ser em caixa alta.
+
+        
     }
 }
